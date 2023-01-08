@@ -1,0 +1,162 @@
+SCRIPT # 1
+P1: Hello
+P2: Hi
+P1: Is this Ahmed speaking?
+P2: Yes, I’m Ahmed and you are?
+P1: I am Danial. I got your number from a friend.
+P2: Oh okay. So how can I help you?
+P1: I got a news that you are renting out an apartment in Faisal Colony.
+P2: Yes, I have an apartment that I would like to rent.
+P1: Where is this apartment located exactly?
+P2: Its building 6 New Sunshine Apartments, 2nd floor apartment 2A.
+P1: Good. So, can you tell be about how many rooms and washrooms are there?
+P2: It has 3 bedrooms, 3 washrooms, a lounge and a kitchen.
+P1: So, what’s the rent for the apartment and the security advance?
+P2: Well, the security advance is Rs 10,000 and the monthly rent is Rs 20,000.
+P1: Rs 20,000 for a 3-bedroom apartment, isn’t it high?
+P2: You can check other apartments in the building. You will get an idea that this much rent is
+reasonable.
+P1: I have checked other dealers’ apartments also. So, the last I can give you is Rs 18,000.
+P2: It’s not reasonable for me. But I can give you some concession. I will give you the apartment for
+Rs 19,000 a month.
+P1: Okay then Rs 19,000 is good with me.
+P2: Then we have a deal Mr. Danial?
+P1: Yes, we have. I will stop by your office and give you the money in cash.
+P2: Okay that will be great. Okay then I’ll see you then.
+P1: Okay bye.
+P2: Bye.
+
+Script # 2
+P1: Hello
+P2: Hi
+P1: How are you?
+P2: I’m fine. What about you?
+P1: I am good.
+P2: How come you contacted me?
+P1: Actually, I want to have a discussion about your apartment as I heard that you are about
+to rent it.
+P2: Yeah, I will rent it out on 1st of this month.
+P1: What is the rent of your apartment?
+P2: It’s Rs 15,000.
+P1: Okay please tell me how many rooms and washrooms are there?
+P2: 4 rooms and 2 washrooms.
+P1: Okay. I’m interested. Should I send you the amount in advance.
+P2: Yeah okay.
+P1: Okay thank you.
+P2: Bye.
+
+Script # 3
+P1: Hello Sir. I hope you are doing good.
+P2: Hi Yes, I'm good. Do I know you?
+P1: Not yet. I just saw your AD that you are selling your bike on Facebook. I'm interested.
+P2: Oh okay.
+P1: So, can you please tell me. What is the model of your bike.
+P2: Yes, It's 2011 Honda 70.
+P1: Do it require any kind of work.
+P2: Nope. Not exactly just need to fix its lights,
+P1: Okay. So, I am interested in buying this bike. Could you please tell me the final demand
+of this.
+P2: It'll be Rs. 50,000 final. Not less than this.
+P1: Okay then I will send you the advance consider it booked by me.
+P2: Okay sure.
+P1: Thank you Bye.
+
+Ali: hi
+Ahmed: Do I know you?
+Ali: Not yet Sir, I have seen your ad in a magazine. You are selling a Ukulele.
+Ahmed: Yes, I am!
+Ali: Can you share the details of it?
+Ahmed: Yeah sure, so its made of a special type of wood that is called mahogany. It’s one of the best woods for ukulele providing a well balance and toned tune.
+Ali: What’s its size?
+Ahmed: It’s a concert with 23 inches which is 58 cm.
+Ali: What brand is it?
+Ahmed: Its Kamaka , Which is one of the finest ukulele maker of Hawaii.
+Ali: What Kind of string it has?
+Ahmed: D'Addario Ukulele strings installed
+Ali: Its color?
+Ahmed: Natural Mahogany
+Ali: Alright, What’s the last price You are giving?
+Ahmed: I’ll sell it for 12,000Rs
+Raza: Ask him, there’s no way we will give it for that, I am a professional singer and I have brough such instruments many time. Make it 10 ,000 Rs.
+Ahmed: Okay Sir , as you say .
+Ali : Then Lets make the deal for 10,000 Rs as final.
+Ahmed: Okay done from my side.
+Ali: How will I pay you?
+Ahmed: You can pay me the price when you’ll come to collect it from me.
+Ali: Okay Done.
+Ahmed: See you soon, Bye
+Ali: Bye.
+
+
+ 
+
+
+
+Amna: Hello!
+Asia: Hi, Do I know you?
+Amna: I saw your ad in the newspaper; you were selling a washing machine.
+Asia: Yes, I am.
+Amna: I wanted to know some more details about it.
+Asia: yeah, sure you can ask!
+Amna: What’s the model of this machine?
+Asia: Its Dawlence Model no DW6550.
+Amna: What other features it has?
+Asia: weight 24 kg, depth 46cm, Its rinse, spin and water wash works well.
+Amna: How much used is it?
+Asia: Its used for 5 months.
+Amna: What’s your final price?
+Asia: 25000Rs.
+Amna: can we make it to 23000Rs?
+Asia: The max I can do for you would be 23,500Rs
+Amna: Ok I am good with it, kindly share the details for payment and all.
+Asia: You can pay it when you’ll collect the machine later.
+Amna: From where should I pick it up from?
+Asia: I can drop you machine near the police line road chowk, On Thursday around 3pm.
+Amna: sound grt!
+Asia: See you soon then.
+Amna: Okay Bye.
+
+Zoe: Hello Sir!
+Zack: Hi , How did you call me?
+Zoe: I saw a post on Facebook page , where you have posted the ad for a rental place in Islamabad.
+Zack: Yes I have posted it , Do you have any queries regarding it?
+Zoe: Yes, I wanted to know the exact place where its location.
+Zack: Its near G9 Markaz Infront of Al – Madinah Store.
+Zoe: oh okay! Is it a corner house?
+Zack: Yes, it is!
+Zoe: How many rooms are in there?
+Zack: Its mainly a double story house , On each floor we have 3 rooms with attached bath , A kitchen, a dining room and a  store room.
+Zoe: is the home fully furnished?
+Zack:  no it not fully yet partially furnished, Ac and fans are already installed in every room and they are in proper working condition.
+Zoe: Is there any terrace?
+Zack : Yes it has terrace , apart from that there is quite spacious space for parking car as well. 
+Zoe: What is the Rent of the whole double story house?
+Zack: It would be 44,000Rs.
+Zoe: What if we want only one portion?
+Zack: Yes, you can have that as well.
+Zoe: Okay then, we can make the agreement for that.
+Zack: One more thing I forgot to mention that there would be increase of 10%  in the rent every year. Also you have to pay security once;  30000Rs, apart from the rent.
+Zoe: Oh okay! It’s a yes from me for single portion for rent. How much advance should I send you?
+Zack: You have to send 30,000 in advance and once you will shift your luggage here, you’ll pay the full amount.
+Zoe: Okay .From when can we start shifting?
+Zack : The portion is free, if you want then you can shift tommow.
+Zoe: Okay great!.Then we will shift in the house on 1st of this month.
+Zack:Okay looking forward to you then.
+Zoe:Inshallah, Uptill then Good bye.
+Zack: bye.
+
+hello hi how are you i'm good what about you i'm fine how come you interactted me actually i want to have a discussion about your flat as i heard that you were about to rent it yeah i will wait it out on first of this month but is' the end of your fl it's fifteen thousand de dayrees okay please tell me how many rooms can watch that day four rooms and two watchoms okay that's good i'm interestrusted to buy uh should i send you an advance yeah okay thank you bye"
+
+
+hello hi how are you i'm good what about you i'm fine how come you interactted me actually i want to have a discussion about your flat as i heard that you were about to rent it yeah i will wait it out on first of this month but is' the end of your fl it's fifteen thousand de dayrees okay please tell me how many rooms can watch that day four rooms and two watchoms okay that's good i'm interestrusted to buy uh should i send you an advance yeah okay thank you bye
+hi hello is this selina talking yes how can i help you i saw a newspaper you have posted for renting apartment yes i did i wanted to know how much money you are charging per month uh it is seventeen thousand topece can you tell me how many rooms are there and if you have attached path with it or not ah we had three rooms two with a test bath one kitchen and one dining room are the rooms furnished or not no they are not punished oh okay i' am interested in making this deal can you give me more details about it i am charging four thousand repees in advance before shifting and after shifting you have to pay full amount also there is ten per cent increase of rent every year okay i will send you advance money by to morrow and then we will start shifting in house by the end of this month okay great it was good talking to you by by looking forward to hearing from you soon
+hello hi how are you i'm fine what about you i'm good how can you contact with me actually i wanted to have a discussion about your apartment as iard that to rent it yeah i will rent it on first of this month what is the of yourpar it's fifteen thousand to piece okay please tell me how many rooms in washton um four rooms and two washrooms okay yeah okay okay thank you bye
+hello hi how are you i'm fine what about you i'm good how can you contact with me actually i wanted to have a discussion about your apartment as i heard that you to rent it yeah i will rent it on first of this month what is the ret of yourpartment it's fifteen thousand to piece okay please tell me how many rooms in washton are there um four rooms and two washrooms okay i yeah okay okay thank you bye
+hello do i know you no yes the apartment will be rened for six months only please you will be charged thirty five thousand rupece per month yes there will be five per an increase in rent after three months okay i am interested you have to send me fifteen hundred apiece for advance okay thank you bye
+hello oh i saw an ad where you were selling cycle i wanted to know a bit of its current condition oh okay sounds good can you tell me final price okay i want to buy it please you the location and date from there i can pick it up okay thank you byye
+hi speak yes i' am am and you are oh okay so how can i help you yes i have an apartment that i would like to rent it's building sixteenth sunshine apartment second floor apartment to a good so it has three bedrooms tea washom and a lounge in a kitchen well the security advance is ten thousand repeece and a monthly rent is twenty thousandece you can check other apartments in the building you will get an idea that this much re is reasonable it's not reasonable for me but i can give you some concession i will give you the apartment for nineteen thousand a piece per month don't we have a dear mister daniel okay then that would be great i'll see you then bye
+hello yes how can i help you i sign newspaper you have posted for yes i did i wanted to know how much are you charing it's seventeen thousand rupece can you tell me how many rooms and if they have atach bath with it or not we have three rooms with two atach bath one kitchen and one dining room are the rooms furnished or not no they are not furnished oh okay i'm interested in making this deal can you give me more details about it i'm charging four thousand fees in advance and once you are done with shifting you have to pay the full amount part from that there will be ten percent increase in rent every year okay okay great looking forward to you
+hello hi how are you i'm fine what about you i'm good how come you contacted me actually i want to have a discussion about your apartment as i heard that you are about to rent it yeah i will rent it out on first of this month what is the rent of your apartment it's fifteen hundred rupees okay please tell me how many rooms and washrooms are there there are four rooms and two wasrooms okay i'm interested should they send you the amount in advance yeah okay okay thank you bye
+hi fello do i know you no i saw you are renting a double story apartment near a commercial market yes the apartment will be rented for six months only please tell the rent as well you will be charged thirty five thousand repiece per month are there any other times and conditions yes there will be five per increase in rent after three months okay i am interestrued i will send you advance you have to send me fifteen hundred feet for advance i'm sending it to you okay thank you by bye
+pi fellows how may i help you i saw an ad where you were selling cyclye yes i do i wanted to know a bit of its current condition it's in imperfect condition it's a racing bike with special thin tires and perfectly working gears oh okay sound good can you tell its final price its final price is twelve thousand ruwpece okay i want to buy it please share the location and date from where i can pick it you can pick it from d watson shop in g sector islamabad okay thank you by bye
+hello sir i hope you are doing good hi yes i'm good do i know you not yet just saw your a of selling bike on safe book i'mtrusted oh okay so can you please tell me what is the model of your bike yes it's two thousand ele hoa seventy do it require any kind of work no not exactly does need to fix its light okay so i'm interestrued in buying this bike could you please sell me the final demand of this it will be seventy thousand at leastce final not less than this okay then i will send you the advance to considerate book by me okay sure thank you bye
